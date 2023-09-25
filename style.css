@@ -1,0 +1,21 @@
+h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 75px;
+}
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+a
+{
+    font-size: 30px;
+    width: 400px;
+    border-radius: 50px;
+    background: white;
+    color: black;
+    
+}
